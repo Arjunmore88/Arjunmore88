@@ -109,27 +109,9 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arjunmore88&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arjunmore88&theme=github_dark"/>
+<img src="https://streak-stats.demolab.com?user=Arjunmore88&theme=github-dark-blue&hide_border=true"/>
 
 </p>
-
-<p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arjunmore88&theme=github_dark"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Arjunmore88&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjunmore88&theme=github_dark"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
