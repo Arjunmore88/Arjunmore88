@@ -1,138 +1,152 @@
-<h1 align="center">Hi 👋, I'm Arjun More</h1>
+<div align="center">
 
-<h3 align="center">
-Cloud & DevOps Engineer | Linux Administrator | AWS | Azure
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Arjun%20More&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Engineer;Linux+Administrator;AWS+%7C+Azure;Docker+%7C+Kubernetes;Infrastructure+Automation" />
+# 👋 Hi, I'm Arjun More
+
+### 🚀 Cloud Engineer | DevOps Engineer | Linux Administrator
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Cloud+Engineer;DevOps+Engineer;Linux+Administrator;AWS+%7C+Azure+Enthusiast;Docker+%7C+Kubernetes;Infrastructure+Automation;Always+Learning+New+Technologies" />
+
+![](https://komarev.com/ghpvc/?username=Arjunmore88&style=for-the-badge&color=blue)
+
+</div>
+
+---
+
+# 💫 About Me
+
+💼 IT Infrastructure Engineer passionate about **Cloud Computing, Linux Administration, and DevOps**.
+
+- 🐧 Linux Administration
+- ☁️ AWS & Microsoft Azure
+- 🚀 Docker • Kubernetes • Jenkins • GitHub Actions
+- 🖥️ Infrastructure & Server Management
+- 🔧 Hardware Validation & Troubleshooting
+- 📚 Continuous Learner
+- 🎯 Goal: Become a Cloud & DevOps Engineer
+
+---
+
+# 🌱 Currently Learning
+
+- Microsoft Azure AZ-104
+- AWS Solutions Architect Associate
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- Jenkins
+- Infrastructure as Code (IaC)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/arjun-more-473557285/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Arjunmorepatil88@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# ⚡ Tech Stack
 
-I'm an IT Infrastructure Engineer with a strong interest in Cloud Computing, Linux Administration, and DevOps.
+<div align="center">
 
-I enjoy building reliable infrastructure, automating deployments, and continuously learning modern cloud technologies.
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,ubuntu,debian,bash,powershell,python,git,github,githubactions,nginx,apache,mysql,postgres,vscode,postman,ansible&perline=7"/>
 
-### Current Focus
-
-- Linux Administration
-- AWS Cloud
-- Microsoft Azure
-- Docker & Kubernetes
-- Infrastructure Automation
-- CI/CD Pipelines
-- Cloud Security
+</div>
 
 ---
 
-# 🚀 Tech Stack
+# 🏗️ DevOps & Cloud Skills
 
-### Cloud
-
-AWS • Azure
-
-### Operating Systems
-
-Linux • Ubuntu • Debian • Windows Server
-
-### Containers
-
-Docker • Kubernetes
-
-### Infrastructure as Code
-
-Terraform *(Learning)*
-
-### CI/CD
-
-GitHub Actions • Jenkins
-
-### Version Control
-
-Git • GitHub
-
-### Scripting
-
-Bash • PowerShell • Python
-
-### Web Servers
-
-Nginx • Apache
-
-### Databases
-
-MySQL • PostgreSQL
-
-### Virtualization
-
-VMware • Hyper-V • WSL
-
----
-
-# 📚 Currently Learning
-
-- Azure Administrator (AZ-104)
-- AWS Solutions Architect Associate
-- Kubernetes Administration
-- Terraform
-- Ansible
-- Monitoring with Prometheus & Grafana
+| Category | Technologies |
+|----------|--------------|
+| ☁️ Cloud | AWS, Azure |
+| 🐧 Linux | Ubuntu, Debian, Linux Administration |
+| 🚀 Containers | Docker, Kubernetes |
+| 🔄 CI/CD | Jenkins, GitHub Actions |
+| 📦 IaC | Terraform, Ansible |
+| 🌐 Servers | Apache, Nginx |
+| 💾 Database | MySQL, PostgreSQL |
+| 🛠 Version Control | Git, GitHub |
+| 💻 Scripting | Bash, PowerShell, Python |
+| 🖥 Virtualization | VMware, Hyper-V, WSL |
 
 ---
 
 # 📜 Certifications
 
-- Microsoft Azure AZ-900 *(Planned / In Progress)*
-- Microsoft Azure Administrator (AZ-104)
-- AWS Certified Solutions Architect – Associate
+- 🎓 Microsoft Azure AZ-900 *(Planned)*
+- 🎓 Microsoft Azure Administrator (AZ-104) *(Learning)*
+- 🎓 AWS Certified Solutions Architect – Associate *(Learning)*
 
 ---
 
-# 📈 DevOps Projects
+# 🚀 Featured Projects
 
-🔹 Linux Server Administration
-
-🔹 AWS Infrastructure Deployment
-
-🔹 Azure Virtual Network Lab
-
-🔹 Dockerized Applications
-
-🔹 Kubernetes Cluster
-
-🔹 Jenkins CI/CD Pipeline
-
-🔹 Terraform Infrastructure
-
-🔹 Bash Automation Scripts
+- 🐧 Linux Administration Labs
+- ☁️ AWS Infrastructure
+- ☁️ Azure Administration
+- 🐳 Docker Projects
+- ☸️ Kubernetes Labs
+- 🏗 Terraform Infrastructure
+- 🚀 Jenkins CI/CD Pipelines
+- 📜 Bash Automation Scripts
 
 ---
 
 # 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Arjunmore88&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Arjunmore88&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjunmore88&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunmore88&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunmore88&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Arjunmore88&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Arjunmore88&theme=tokyo-night)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Arjunmore88&theme=tokyonight&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=Arjunmore88&theme=algolia&no-frame=true&row=1&column=7)
 
 ---
 
-# 📫 Connect With Me
+# 📈 Profile Summary
 
-📧 Email: Arjunmorepatil88@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/arjun-more-473557285/
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjunmore88&theme=github_dark)
 
 ---
 
-## "Automating infrastructure one commit at a time."
+<div align="center">
+
+## 💡 Motto
+
+### *"Automating infrastructure one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
