@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Arjun%20More&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 
-# 👋 Hi, I'm Arjun More
+# 👋 Hi, I'm Arjun More 
 
 ### 🚀 Cloud Engineer | DevOps Engineer | Linux Administrator
 
