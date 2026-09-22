@@ -30,13 +30,9 @@
 
 # 🌱 Currently Learning
 
-- Microsoft Azure AZ-104
-- AWS Solutions Architect Associate
 - Docker
 - Kubernetes
-- Terraform
 - Ansible
-- Jenkins
 - Infrastructure as Code (IaC)
 
 ---
@@ -86,9 +82,8 @@
 
 # 📜 Certifications
 
-- 🎓 Microsoft Azure AZ-900 *(Planned)*
-- 🎓 Microsoft Azure Administrator (AZ-104) *(Learning)*
-- 🎓 AWS Certified Solutions Architect – Associate *(Learning)*
+- 🎓 Microsoft Azure Administrator (AZ-104) 
+- 🎓 AWS Certified Solutions Architect – Associate 
 
 ---
 
