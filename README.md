@@ -1,7 +1,7 @@
 <h1 align="center">Arjun More</h1>
 
 <p align="center">
-  <b>Cloud &amp; DevOps Engineer</b><br/>
+  <b>Associate Cloud Engineer</b> · AWS · Azure · DevOps<br/>
   I build cloud infrastructure that is automated, secure by default, and tested before it ships.
 </p>
 
@@ -20,7 +20,7 @@
 
 ### About
 
-IT Infrastructure Engineer transitioning into Cloud and DevOps, with a background in server management, hardware validation and Linux administration. I treat infrastructure like software: defined as code, reviewed in Git, validated in CI, and documented with runbooks so the next engineer can operate it.
+Associate Cloud Engineer working across AWS and Azure, with a foundation in IT infrastructure, server management, hardware validation and Linux administration. I treat infrastructure like software: defined as code, reviewed in Git, validated in CI, and documented with runbooks so the next engineer can operate it.
 
 **Focus areas:** AWS & Azure infrastructure · Infrastructure as Code · Containers · CI/CD · Linux operations · Cost and security hygiene
 **Currently learning:** Kubernetes (EKS/AKS) · Ansible · GitOps
@@ -81,6 +81,6 @@ IT Infrastructure Engineer transitioning into Cloud and DevOps, with a backgroun
 ---
 
 <p align="center">
-  <b>Open to Cloud Engineer, DevOps Engineer and Linux/Cloud Operations roles.</b><br/>
+  <b>Always happy to connect about cloud, DevOps and automation.</b><br/>
   <a href="https://www.linkedin.com/in/arjun-more-473557285/">LinkedIn</a> · <a href="mailto:Arjunmorepatil88@gmail.com">Email</a>
 </p>
